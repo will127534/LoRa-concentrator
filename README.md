@@ -33,7 +33,7 @@ But because board size limit, I removed Radio_A for layout simplicity, also chan
 
 
 ---
-
+**Version 1**
 note that I haven't get it working yet, stuck in PLL lock  
 but SPI test seems to be OK.  
 
