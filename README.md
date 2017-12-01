@@ -17,7 +17,8 @@ I've tested both SX1255 & SX1257, and also two SX1301 connected to Raspberry Pi 
 
 last but not least, I've launch some High Altitude Balloon and using it as my multi-channel receiver. Which reach about 100Km by BW 125Khz CR 4/5 SF 7 @ 432Mhz with 16dBm power + MAX2640 LNA.
 
-
+And RPI Version is currently sold on Tindle!
+https://www.tindie.com/products/will123321/sx1308-raspberry-pi-lora-gateway-board/
 ---
 
 **Update: 2017/09/01**
