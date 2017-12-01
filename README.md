@@ -1,5 +1,6 @@
 # LoRa-concentrator
-A LoRa Gateway using SX1301 and SX125X
+
+A Real LoRa Gateway using SX1301 and SX125X
 
 Current version is designed for Raspberry Pi and Pi Zero
 
@@ -35,4 +36,5 @@ note that I haven't get it working yet, stuck in PLL lock
 but SPI test seems to be OK.  
 
 ![Alt text](/Version1/pcb.jpg)
+
 
