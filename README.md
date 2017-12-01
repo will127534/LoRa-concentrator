@@ -19,6 +19,7 @@ last but not least, I've launch some High Altitude Balloon and using it as my mu
 
 And RPI Version is currently sold on Tindle!
 https://www.tindie.com/products/will123321/sx1308-raspberry-pi-lora-gateway-board/
+
 ---
 
 **Update: 2017/09/01**
