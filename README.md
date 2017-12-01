@@ -8,7 +8,7 @@ for Raspberry Pi, there is two SX125X, but for Pi Zero I strip down Radio_A for 
 Both of them have a Max-7Q GPS module, which provide PPS to SX1301 and Raspberry Pi(GPIO05),
 and provide NEMA through Raspberry Pi's UART port.
 
-At the RF frontend, the most difference is that I didn't combine RX/TX using a RF switch,
+At the RF frontend, the main difference is that I didn't combine RX/TX using a RF switch,
 and there is no on-board PA/LNA, but I did put a SAW filter. The reason not to is that I can use external LNA which is right under the antenna, there is a bias inductor right after RX port, which is connected to Raspberry Pi's 5V power rail.  
 
 The current RPI version is designed for SX1257, but it is easy to migrate to SX1255, just put SX1255 on SX1257 and change RF passive components according to SX1255 datasheet.
