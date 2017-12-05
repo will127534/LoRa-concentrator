@@ -2,7 +2,7 @@
 
 A Real LoRa Gateway using SX1301 and SX125X
 
-Current version is designed for Raspberry Pi and Pi Zero
+Current version is designed for Raspberry Pi and another board for Pi Zero
 
 ![Alt text](/Version2/RPI/DSC02654.jpg)
 for Raspberry Pi, there is two SX125X, but for Pi Zero I strip down Radio_A for better layout.
