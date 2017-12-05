@@ -4,6 +4,7 @@ A Real LoRa Gateway using SX1301 and SX125X
 
 Current version is designed for Raspberry Pi and Pi Zero
 
+![Alt text](/Version2/RPI/DSC02654.jpg)
 for Raspberry Pi, there is two SX125X, but for Pi Zero I strip down Radio_A for better layout.
 Both of them have a Max-7Q GPS module, which provide PPS to SX1301 and Raspberry Pi(GPIO05),
 and provide NEMA through Raspberry Pi's UART port.
