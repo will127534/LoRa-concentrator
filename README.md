@@ -3,6 +3,7 @@
 A Real opensource LoRa Gateway using SX1301/SX1308 and SX1255/SX1257
 
 **Version 3**
+---
 ![Alt text](/Version3/RPI/DSC04207.jpg)
 Version 3 is designed for Raspberry Pi, same setup like Version 2, but I added LNA/PA and RF switch, and move to 4-layer board design
 PA(RFPA0133) and RF switch(RFSW1012) is same as Microchip's LoRa gateway, but I changed LNA to SKY67150-396LF which have a much better Noise Figure(0.28dB).
@@ -23,6 +24,7 @@ https://www.tindie.com/products/will123321/sx1308-raspberry-pi-lora-gateway-boar
 
 
 **Version 2**
+---
 Version 2 is designed for Raspberry Pi and another board for Pi Zero
 
 ![Alt text](/Version2/RPI/DSC02654.jpg)
@@ -39,8 +41,9 @@ I've tested both SX1255 & SX1257, and also two SX1301 connected to Raspberry Pi 
 
 last but not least, I've launch some High Altitude Balloon and using it as my multi-channel receiver. Which reach about 100Km by BW 125Khz CR 4/5 SF 7 @ 432Mhz with 16dBm power + MAX2640 LNA.
 
----
+
 **Version 1**
+---
 note that I haven't get it working yet, stuck in PLL lock  
 but SPI test seems to be OK.  
 
