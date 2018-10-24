@@ -1,6 +1,7 @@
 # LoRa-concentrator
 
 A Real opensource LoRa Gateway using SX1301/SX1308 and SX1255/SX1257
+For RRI and RPI Zero
 
 **Version 3**
 ---
@@ -19,9 +20,10 @@ and provide NEMA through Raspberry Pi's UART port. There is a jumper for shuting
 
 Lastly, it support PoE header on Raspberry Pi 3B+, so you can stack PoE hat on top of the board.(Just make it clear that the board doesn't have PoE on board, but just the pin header to support other PoE hat).
 
-And RPI Version is currently sold on Tindle!
-https://www.tindie.com/products/will123321/sx1308-raspberry-pi-lora-gateway-board/
 
+And is currently sold on Tindle!
+https://www.tindie.com/products/will123321/sx1308-raspberry-pi-zero-lora-gateway-board/
+https://www.tindie.com/products/will123321/sx1308-raspberry-pi-lora-gateway-board/
 
 **Version 2**
 ---
