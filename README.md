@@ -25,6 +25,8 @@ And is currently sold on Tindle!
 https://www.tindie.com/products/will123321/sx1308-raspberry-pi-zero-lora-gateway-board/
 https://www.tindie.com/products/will123321/sx1308-raspberry-pi-lora-gateway-board/
 
+Update: 2021/08/22: The board has sold out!
+
 **Version 2**
 ---
 Version 2 is designed for Raspberry Pi and another board for Pi Zero
